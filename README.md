@@ -23,3 +23,4 @@ This application generates a random password based on user-selected criteria.
     WHEN the password is generated
     THEN the password is written to the page.
 
+LINK: https://jaredtempleton.github.io/PasswordGenerator/

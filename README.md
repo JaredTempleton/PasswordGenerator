@@ -1,7 +1,7 @@
 # Homework 3
 January 2020
 
-Password Generator
+
 
 ## Description
 
